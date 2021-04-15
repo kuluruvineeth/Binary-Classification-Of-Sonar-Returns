@@ -24,4 +24,6 @@
  ### Evaluate a Larger Network
  * Here, we add one new layer to the network that introduces another hidden layer with 30 neurons after the first hidden layer.
  * 60 inputs -> [60->30] -> 1 output
+
+## we can achieve model accuracy in the range of 80% to 85%.
   
